@@ -19,7 +19,7 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/122838052-9da59280-d2cb-11eb-992e-d85c3a288e88.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://user-images.githubusercontent.com/25933386/123872566-a4578980-d90b-11eb-9da7-b16ca42e240b.png" style="max-width: 100%;"></img>
 </a>
 
 
