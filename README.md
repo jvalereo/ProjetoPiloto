@@ -1,19 +1,13 @@
 # Layout
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123871892-aa993600-d90a-11eb-9080-8513f677795d.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="1300" width ="2000" src ="https://user-images.githubusercontent.com/25933386/123871892-aa993600-d90a-11eb-9080-8513f677795d.jpg"></img>
 </a>
 
 ##
 
 <a href="#">
 <img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123871912-b4bb3480-d90a-11eb-8030-f4959b008fb6.jpg"></img>
-</a>
-
-##
-
-<a href="#">
-<img align="center"  alt="jonas-Layout" height height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557963-3162dd00-d76a-11eb-9e52-731fc4474592.jpg"></img>
 </a>
 
 ##
