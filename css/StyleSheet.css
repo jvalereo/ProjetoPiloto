@@ -1,0 +1,412 @@
+﻿/* SITE-PROJETO TM: TRABALHO DE MATERIA- CURSO TÉCNICO EM INFORMÁTICA - ETESP*/
+/*Trabalho de materia, desenvolver site básico em sala de aula*/
+/*Tema do projeto: Devenvolver um site piloto jvalereo informatica, projeto individual, aperfeiçoamento da materia*/
+/*Site não responsivo, não é tcc de conclusão de trabalho, só treinamento e aprendendo a desenvolver técnica básica de TPI*/
+/*ETEC DE SÃO PAULO*/
+/*Data:  04/04/ 2015*/
+/*Aluno: Jonas Valereo - Técnico em Informática*/
+
+
+
+/*FORMATACAO DO CSS DO SITE JVALEREO INFORMATICA - PROJETO PILOTO */
+
+
+/*Formatação da Página Principal */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+/*Formatação Do Conteudo da Página Principal*/
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+
+body {
+    background-color:#cfcfcf;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+/*Formatação do Container*/
+
+#tudo{
+    width: 900px;
+    height: 1600px;
+    margin: 10px auto;
+    background-color:#cfcfcf;
+}
+
+/*Formatação do Menu Principal*/
+
+#principal{
+    width: 900px;
+    height: 70px;
+    background-color:#ffffff;
+
+}
+
+#principal ul{
+    width: 900px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    font-family: Arial,Calibri,Tahoma;
+
+}
+
+#principal li{
+    list-style: none;
+    display: inline;
+    
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 16px;
+
+}
+
+#principal ul li a{
+    text-decoration: none;
+
+    }
+
+#principal ul li a:hover{
+
+	
+    font-family: Arial,Calibri,Tahoma;
+
+}
+
+
+/*Fomatação do Menu Principal Abaixo*/
+
+#abaixo{
+    width: 0px;
+    height: 0px;
+    float: none;
+    position: relative;
+    top: 50px;
+}
+
+#abaixo ul{
+    width: 0px;
+    height: 0px;
+    line-height: 30px;
+    margin: 0px 0px 80px 80px; 
+    font-family: Arial,Calibri,Tahoma;
+}
+
+#abaixo li{
+    list-style: none;
+    display: block;
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 15px;
+}
+
+#abaixo ul li a{
+    text-decoration: none;
+
+    }
+#abaixo p{
+    float: none;
+    position: relative;
+    left: 80px;
+    top: -20px;
+
+}
+ /*Formatação dos Banners*/
+
+ banner1{
+width: 900px;
+position: relative;
+
+ }
+
+ banner2{
+width: 900px;
+position: relative;
+
+ }
+
+/*Formatação do Menu Serviços*/
+
+#serviços{
+    width: 0px;
+    height: 0px;
+    float:none;
+    position: relative;
+    top: 50px;
+  
+}
+
+#serviços ul{
+    width: 0px;
+    height: 0px;
+    line-height: 30px;
+    margin: 0px 0px 80px 300px; 
+    font-family: Arial,Calibri,Tahoma;
+  
+}
+
+#serviços li{
+    list-style: none;
+    display: block;
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 15px;
+}
+
+#serviço ul li a{
+text-decoration: none;
+
+}
+
+#serviços p{
+    float: none;
+    position: relative;
+    left: 300px;
+    top: -20px;
+
+}
+
+
+/*Formatação do Menu Serviços1*/
+
+
+#serviços1{
+    width: 0px;
+    height: 0px;
+    float: none;
+    position: relative;
+    top: 50px;
+}
+
+#serviços1 ul{
+    width: 0px;
+    height: 0px;
+    line-height: 30px;
+    margin: 0px 0px 80px 530px; 
+    font-family: Arial,Calibri,Tahoma;
+}
+
+#serviços1 li{
+    list-style: none;
+    display: block;
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 15px;
+}
+
+#serviço1 ul li a{
+text-decoration: none;
+
+}
+
+#serviços1 p{
+    float: none;
+    position: relative;
+    left: 530px;
+    top: -20px;
+
+}
+
+
+/*Formatação do Menu Redes Sociais*/
+
+
+#rede{
+    width: 0px;
+    height: 0px;
+    float: none;
+    position: relative;
+    top: 50px;
+  
+}
+
+#rede ul{
+    width: 0px;
+    height: 0px;
+    line-height: 30px;
+    margin: 0px 0px 80px 750px; 
+    font-family: Arial,Calibri,Tahoma;
+  
+}
+
+#rede li{
+    list-style: none;
+    display: block;
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 15px;
+}
+
+#rede ul li a{
+text-decoration: none;
+
+}
+
+#rede p{
+    float: none;
+    position: relative;
+    left: 750px;
+    top: -20px;
+
+}
+
+
+
+/*Formatação Texto h1*/
+
+h1{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Arial,Calibri,Tahoma;
+    font-size: 18px;
+
+}
+
+/*Formatação do Slideshow*/
+
+#cycle-slideshow{
+    width:900px;
+    height: 300px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#logo{
+background-image: url(imagens/logotipo.png);
+margin: 1px 2px;
+position: relative;
+float: left;
+margin-top: -410px;
+left: 0px;
+
+}
+
+#logo1{
+background-image: url(imagens/logotipo.png);
+margin: 1px 2px;
+position: relative;
+float: left;
+top: 0px;
+left: 0px;
+}
+
+
+
+
+/*Formatão do Conteudo e Rodapes*/
+
+#conteudo,#rodape,#rodape1{
+    width:900px;
+    height: 650px;
+    background-color:#ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#rodape{
+    height: 350px;
+    background-color: #ffffff;
+
+}
+
+#rodape1{
+    height: 64px;
+    background-color: #ffffff;
+    clear: both;
+    color: #000000;
+    text-align: center;
+    font-family:Arial,Calibri,Tohama;
+    font-size: 12px;
+
+}
+
+#textorodape{
+font-family: Arial,Calibri,Tohama;
+font-size: 11px;
+color:#000000;
+font-weight: bold;
+
+
+}
+
+.imagem{
+					width: 160px;
+					height: 145px;
+					margin-top: 30px;
+					margin-left: 80px;
+					background-color: #fff;
+					border: 1px solid #000000;
+					padding: 10px 10px 20px 20px;
+					box-shadow: 2px 2px 3px #AAA;
+}
+
+.direita{
+				float: left;
+				-webkit-transform: rotate(0deg);
+				-moz-transform: rotate(0deg);
+				-o-transform: rotate(0deg);
+				-ms-transform: rotate(0deg);
+				transform: rotate(0deg);
+}
+
+.esquerda{
+				float: left;
+				-webkit-transform: rotate(0deg);
+				-moz-transform: rotate(0deg);
+				-o-transform: rotate(0deg);
+				-ms-transform: rotate(0deg);
+				transform: rotate(0deg);
+}
+/*Formatação do formulário */
+
+form#formulario{width:300px; background:#ccc; margin: 50px auto auto; padding:20px;}
+form span { font:16px verdana,geneva,san-serif; color:#069; display:block; padding:4px 0;}
+for#formulario input{ width:280px; padding:6px;  border:none;}
+form  textarea{width:280px;padding:4px;}
+form#botao{width:80px; background:#069; color:#fff;padding:6px; cursor:pointer;}
+
+
+
+/*Link De Imagen Na Página Home */
+
+#link1{
+		position: relative;
+		left: 650px;
+		top: 230px;
+}
+
+
+#link2{
+		position: relative;
+		left:650px;
+		top: -160px;
+}
+
+#link3{
+		position: relative;
+		left: 50px;
+        top: -50px;
+
+}
+
+#link4{
+		position: relative;
+		left: 640px;
+        top: 100px;
+
+}
+
+
+#link5{
+		position: relative;
+		left: 200px;
+        top: 150px;
+
+}
