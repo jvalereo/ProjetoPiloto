@@ -7,13 +7,13 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123871912-b4bb3480-d90a-11eb-8030-f4959b008fb6.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="1300" width ="3000" src ="https://user-images.githubusercontent.com/25933386/123871912-b4bb3480-d90a-11eb-8030-f4959b008fb6.jpg"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123871927-b84ebb80-d90a-11eb-961e-d81f4bcdb1ff.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="1300" width ="3000" src ="https://user-images.githubusercontent.com/25933386/123871927-b84ebb80-d90a-11eb-961e-d81f4bcdb1ff.jpg"></img>
 </a>
 
 ##
