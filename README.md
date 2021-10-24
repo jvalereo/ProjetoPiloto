@@ -19,14 +19,15 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="400" width ="600" src ="https://user-images.githubusercontent.com/25933386/123872566-a4578980-d90b-11eb-9da7-b16ca42e240b.png" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="400" width ="600" src ="https://user-images.githubusercontent.com/25933386/138614252-5a4a5059-64d4-4c8f-a943-c89b73f4eb95.jpg" style="max-width: 100%;"></img>
 </a>
 
 
 # Projeto Piloto ETESP - Etec de São Paulo - Centro Paula Souza 2015
 
 <a href="#">
-<img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/138614252-5a4a5059-64d4-4c8f-a943-c89b73f4eb95.jpg" style="max-width: 100%;"></img>
+  
+<img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/138614319-dfd8794e-82e0-4eaf-9e2c-4860e268986a.png" style="max-width: 100%;"></img>
 </a>
 
 
